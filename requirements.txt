@@ -25,5 +25,5 @@ sklearn==0.0
 SQLAlchemy==1.2.15
 tqdm==4.28.1
 Unidecode==1.0.23
-urllib3==1.22
+urllib3==1.26.5
 xgboost==0.81
